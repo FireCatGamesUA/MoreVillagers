@@ -35,8 +35,10 @@ function jump(){
         isJumping = true;
     }
 }
-setInterval(draw, 20);
-setInterval(jump, 500);
+dino.onload = function(){
+    setInterval(draw, 20);
+    setInterval(jump, 500);
+}
 
 //PackmaN//
 
