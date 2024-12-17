@@ -1,26 +1,26 @@
 @font-face {
     font-family: "Astro";
-    src: url(/fonts/MBF\ Alva.ttf);
+    src: url(./fonts/MBF\ Alva.ttf);
 }
 @font-face {
     font-family: "Beat";
-    src: url(/fonts/BeautyDarling-BF6744b2077f1e5.otf);
+    src: url(./fonts/BeautyDarling-BF6744b2077f1e5.otf);
 }
 @font-face {
     font-family: "Neon";
-    src: url(/fonts/Neonballroom.otf);
+    src: url(./fonts/Neonballroom.otf);
 }
 @font-face {
     font-family: "Tiny";
-    src: url(/fonts/Tiny5-Regular.ttf);
+    src: url(./fonts/Tiny5-Regular.ttf);
 }
 @font-face {
     font-family: "Harry";
-    src: url(/fonts/ParryHotter.ttf);
+    src: url(./fonts/ParryHotter.ttf);
 }
 @font-face {
     font-family: "Georg";
-    src: url(/fonts/Georgia-PersonalUse.otf);
+    src: url(./fonts/Georgia-PersonalUse.otf);
 }
 ::-webkit-scrollbar{
     width: 0;
