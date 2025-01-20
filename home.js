@@ -1,7 +1,7 @@
 let canvasOne = document.getElementById("canvasOne");
 let rtxOne = canvasOne.getContext("2d");
 let dino = new Image();
-dino.src = "./images/dino/T-Rex.png";
+dino.src = "./images/Dino/T-Rex.png";
 let dinoY = 56;
 let velY = 0;
 let gravity = 0.5;
